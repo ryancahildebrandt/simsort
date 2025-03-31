@@ -2,6 +2,8 @@
 ## *Using dimensionality reduction and graphs to group similar texts*
 
 ---
+[![Open in gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ryancahildebrandt/simsort)
+[![This project contains 0% LLM-generated content](https://brainmade.org/88x31-dark.png)](https://brainmade.org/)
 
 ## Purpose
 
